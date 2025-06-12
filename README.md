@@ -1,30 +1,14 @@
-<!-- Centered Main Screenshot -->
+<!-- Main Banner -->
 <div align="center">
   <img width="800" alt="Main Screenshot" src="https://github.com/user-attachments/assets/aeeee210-b4ff-4455-98e5-5db3c42fcf8d" />
 </div>
 
-<!-- Bold Introduction -->
 <h1 align="center"><strong>👋 Hi! I'm an iOS App Developer Engineer</strong></h1>
-<h3 align="center">Here's a bit of what I've been working on.</h3>
+<h3 align="center">Here's a bit of what I've been working on 🚀</h3>
 
 ---
 
-<!-- Project Title -->
-<h2 align="center">🚀 <strong>WeCare</strong></h2>
-
-<!-- Description -->
-<p align="center">
-  <em>(Infosys Internship)</em><br>
-  I had the opportunity to contribute to this incredible <strong>iOS/iPadOS/macOS app</strong> built with <strong>SwiftUI</strong>.
-  My work involved designing and implementing the <strong>Admin Portal</strong>, integrating <strong>SwiftCharts</strong> for analytics,
-  fixing bugs, and connecting the app to the <strong>AWS-based backend</strong>.
-</p>
-
-<p align="center">
-  ⏱️ Completed in just <strong>3 weeks</strong> · ☁️ <strong>Cross-platform support</strong> · 🔗 <strong>Deployed via AWS</strong>
-</p>
-
-<!-- Project Screenshots -->
+## 🚨 WeCare – Cross-Platform Health Admin App
 <div align="center">
   <img src="https://github.com/user-attachments/assets/aff4c320-5c39-45d0-9aab-dfcaf9af6a75" width="250" />
   <img src="https://github.com/user-attachments/assets/b607d6c4-bceb-4641-9e81-80e9d667e338" width="250" />
@@ -32,34 +16,55 @@
   <img src="https://github.com/user-attachments/assets/f0a2ad71-c546-4f9e-8e0a-231580815455" width="250" />
 </div>
 
+<p align="center">
+  <em><strong>Internship @ Infosys</strong></em><br>
+  WeCare is a full-featured iOS/iPadOS/macOS app built using <strong>SwiftUI</strong>. I contributed to developing the <strong>Admin Portal</strong>, integrating <strong>SwiftCharts</strong> for real-time analytics, and connecting it to a <strong>cloud backend on AWS</strong>.
+</p>
+
+<p align="center">
+  ⏱️ Built in <strong>3 weeks</strong> · ☁️ <strong>Cross-platform support</strong> · 📊 <strong>SwiftCharts</strong> · 🔗 <strong>AWS integration</strong>
+</p>
+
+### ✨ Key Contributions:
+- 💬 Integrated backend APIs and real-time data sync  
+- 📊 Added analytics dashboard using **SwiftCharts**  
+- 🎨 Designed responsive and accessible UI  
+- 🐞 Fixed bugs and improved UX across platforms
+
 ---
 
-<!-- Contributions -->
-<h3>✨ Key Contributions</h3>
+## 🧘‍♂️ DeskBreak – Stretch & Wellness App for Professionals
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8007ce6c-a047-4fc8-a30b-ac7341dcbdc9" width="300" />
+  <img src="https://github.com/user-attachments/assets/acda1317-de07-4725-8611-8ec60f0c4ca0" width="300" />
+  <img src="https://github.com/user-attachments/assets/07742843-60a7-4fe9-9ac4-2ae3d740e377" width="300" />
+  <img src="https://github.com/user-attachments/assets/bc4a75ac-8df6-44ec-baaf-71be606366d9" width="300" />
+</div>
 
-- 💬 Integrated the backend APIs into the app
-- 📊 Implemented <strong>SwiftCharts</strong> in the Admin Portal for data analytics
-- 🎨 Collaborated in designing a responsive and accessible UI
-- 🐞 Fixed UI bugs and improved the overall UX
+<p align="center">
+  Created for the <strong>iOS Development Centre</strong> in my college and published to the App Store, DeskBreak is your smart desk-friendly stretching companion. It offers short guided stretches like <strong>LiftUp</strong> and <strong>NeckFlex</strong> with custom routines, reminders, and optional community motivation to build healthy daily habits.
+</p>
+
+<p align="center">
+  ⏰ Quick stretches · 🔔 Smart reminders · 🧠 Wellness-focused · 🤝 Community support
+</p>
+
+### 🔧 Tech Used:
+- 💿 Firebase Firestore  
+- 🎨 UIKit  
+- 🏦 App Storage  
+- 🎁 ARKit  
+- 💰 CoreML  
+- 📲 Vision & VisionKit  
 
 ---
 
+<h2 align="center">Thanks for scrolling! 🙌</h2>
+<p align="center">Let’s build something amazing together. Reach out if you'd like to collaborate!</p>
 
 
 
-AppIdeaasApp
-My most recent app I built and released on the App Store. I created this app out of personal need. I have SO MANY random app ideas and wanted a place I could easily keep track of them. AppIdeasApp lets you create app ideas, brainstorm everything from name ideas, feature ideas, color schemes, and more. Less forgetting. More building. More shipping. I wanted to challenge my design skills on this project and had fun adding some animations (all with SwiftUI of course!)
-
-  
-
-Tech Used
-
-💿 Core Data
-🎨 SwiftUI
-🏦 App Storage
-🎁 WishKit API
-💰 IAP
-📲 WidgetKit
+   
 Magic Budget
 This app has been a passion project of mine over the past couple years. Magic Budget is a Disney Parks budget planning app. Me and my husband absolutely love going to the parks but we always find ourselves coming over budget (too many churros). I built this app to help solve this problem! I found the estimated price for many of the popular items in the parks so users can quickly budget for what they might buy on their trip.
 

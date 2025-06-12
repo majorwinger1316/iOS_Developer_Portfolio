@@ -8,7 +8,7 @@
 
 ---
 
-## 🚨 WeCare – Cross-Platform Health Admin App
+## 🚨 WeCare – Cross-Platform Hospital Management App
 <div align="center">
   <img src="https://github.com/user-attachments/assets/aff4c320-5c39-45d0-9aab-dfcaf9af6a75" width="250" />
   <img src="https://github.com/user-attachments/assets/b607d6c4-bceb-4641-9e81-80e9d667e338" width="250" />

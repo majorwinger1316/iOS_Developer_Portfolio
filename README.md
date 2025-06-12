@@ -1,17 +1,23 @@
-<img width="792" alt="Screenshot 2025-06-12 at 1 34 54 PM" src="https://github.com/user-attachments/assets/6f15b112-4c7b-4d45-91ee-b9f94e94310e" />
+
+<img width="741" alt="Screenshot 2025-06-12 at 1 43 13 PM" src="https://github.com/user-attachments/assets/aeeee210-b4ff-4455-98e5-5db3c42fcf8d" />
 
 👋 Hi! I'm a iOS App Developer Engineer. Here's a bit of what I've been working on.
-Clockology
-(Contract Work) I've have the opportunity to contribute to this incredible iOS/watchOS App. Using SwiftUI, I've helped refresh some of the designs, implement a new generic Calendar and Chart layer for users to add to their watch faces, and help with various bug fixes and design updates. This is ongoing work and just a few examples of the things I've had the opportunity to work on.
+WeCare
+(Infosys Internship) I've have the opportunity to contribute to this incredible iOS/iPadOS/MacOS App. Using SwiftUI, I've helped in designing and implementing the admin portal, implemented SwiftCharts for Analytics, and help with various bug fixes and Backend Integration. This App was completed in just 3 weeks with the capability to work cross platform as the backend was deployed on AWS.
 
+
+![WhatsApp Image 2025-05-08 at 8 27 59 PM](https://github.com/user-attachments/assets/aff4c320-5c39-45d0-9aab-dfcaf9af6a75)
+![WhatsApp Image 2025-05-08 at 11 29 13 PM](https://github.com/user-attachments/assets/b607d6c4-bceb-4641-9e81-80e9d667e338)
+![WhatsApp Image 2025-05-08 at 10 08 28 PM](https://github.com/user-attachments/assets/5317f4db-62e7-4120-8804-30166ed7fc7e)
+![WhatsApp Image 2025-05-08 at 10 08 46 PM](https://github.com/user-attachments/assets/f0a2ad71-c546-4f9e-8e0a-231580815455)
   
 
-💬 Wrote a Python script to help with the app's localization
-📊 Built a generic chart layer with SwiftCharts to handle the data and settings the User chooses to use
-🔹 Helped add custom watch hands to the app usings custom SwiftUI Shapes
-📲 Incorporated tap gestures to improve the watch face editor experience
-⌚️ Added a watch band preview feature so users can see what their face could like like with popular band options"
-Other UI and bug fixes
+💬 Integration of Backend in the Application
+📊 Implemented SwiftCharts for Analytics in Admin Portal
+📲 Helped in Designing the UI of the Application
+💬 Other UI and bug fixes
+
+
 AppIdeaasApp
 My most recent app I built and released on the App Store. I created this app out of personal need. I have SO MANY random app ideas and wanted a place I could easily keep track of them. AppIdeasApp lets you create app ideas, brainstorm everything from name ideas, feature ideas, color schemes, and more. Less forgetting. More building. More shipping. I wanted to challenge my design skills on this project and had fun adding some animations (all with SwiftUI of course!)
 

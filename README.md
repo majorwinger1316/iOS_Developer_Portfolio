@@ -6,10 +6,10 @@ WeCare
 (Infosys Internship) I've have the opportunity to contribute to this incredible iOS/iPadOS/MacOS App. Using SwiftUI, I've helped in designing and implementing the admin portal, implemented SwiftCharts for Analytics, and help with various bug fixes and Backend Integration. This App was completed in just 3 weeks with the capability to work cross platform as the backend was deployed on AWS.
 
 
-![WhatsApp Image 2025-05-08 at 8 27 59 PM](https://github.com/user-attachments/assets/aff4c320-5c39-45d0-9aab-dfcaf9af6a75)
-![WhatsApp Image 2025-05-08 at 11 29 13 PM](https://github.com/user-attachments/assets/b607d6c4-bceb-4641-9e81-80e9d667e338)
-![WhatsApp Image 2025-05-08 at 10 08 28 PM](https://github.com/user-attachments/assets/5317f4db-62e7-4120-8804-30166ed7fc7e)
-![WhatsApp Image 2025-05-08 at 10 08 46 PM](https://github.com/user-attachments/assets/f0a2ad71-c546-4f9e-8e0a-231580815455)
+<img src="https://github.com/user-attachments/assets/aff4c320-5c39-45d0-9aab-dfcaf9af6a75" width="250" />
+<img src="https://github.com/user-attachments/assets/b607d6c4-bceb-4641-9e81-80e9d667e338" width="250" />
+<img src="https://github.com/user-attachments/assets/5317f4db-62e7-4120-8804-30166ed7fc7e" width="250" />
+<img src="https://github.com/user-attachments/assets/f0a2ad71-c546-4f9e-8e0a-231580815455" width="250" />
   
 
 💬 Integration of Backend in the Application

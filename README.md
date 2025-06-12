@@ -4,17 +4,14 @@
 </div>
 
 <h2>👋 Hi! I'm a iOS App Developer Engineer. Here's a bit of what I've been working on.</h2>
-
 <h1><strong>WeCare</strong></h1>
 
 (Infosys Internship) I've have the opportunity to contribute to this incredible iOS/iPadOS/MacOS App. Using SwiftUI, I've helped in designing and implementing the admin portal, implemented SwiftCharts for Analytics, and help with various bug fixes and Backend Integration. This App was completed in just 3 weeks with the capability to work cross platform as the backend was deployed on AWS.
-
 
 <img src="https://github.com/user-attachments/assets/aff4c320-5c39-45d0-9aab-dfcaf9af6a75" width="250" />
 <img src="https://github.com/user-attachments/assets/b607d6c4-bceb-4641-9e81-80e9d667e338" width="250" />
 <img src="https://github.com/user-attachments/assets/5317f4db-62e7-4120-8804-30166ed7fc7e" width="250" />
 <img src="https://github.com/user-attachments/assets/f0a2ad71-c546-4f9e-8e0a-231580815455" width="250" />
-  
 
 💬 Integration of Backend in the Application
 📊 Implemented SwiftCharts for Analytics in Admin Portal

@@ -1,22 +1,50 @@
-
+<!-- Centered Main Screenshot -->
 <div align="center">
-  <img width="741" alt="Screenshot 2025-06-12 at 1 43 13 PM" src="https://github.com/user-attachments/assets/aeeee210-b4ff-4455-98e5-5db3c42fcf8d" />
+  <img width="800" alt="Main Screenshot" src="https://github.com/user-attachments/assets/aeeee210-b4ff-4455-98e5-5db3c42fcf8d" />
 </div>
 
-<h2>👋 Hi! I'm a iOS App Developer Engineer. Here's a bit of what I've been working on.</h2>
-<h1><strong>WeCare</strong></h1>
+<!-- Bold Introduction -->
+<h1 align="center"><strong>👋 Hi! I'm an iOS App Developer Engineer</strong></h1>
+<h3 align="center">Here's a bit of what I've been working on.</h3>
 
-(Infosys Internship) I've have the opportunity to contribute to this incredible iOS/iPadOS/MacOS App. Using SwiftUI, I've helped in designing and implementing the admin portal, implemented SwiftCharts for Analytics, and help with various bug fixes and Backend Integration. This App was completed in just 3 weeks with the capability to work cross platform as the backend was deployed on AWS.
+---
 
-<img src="https://github.com/user-attachments/assets/aff4c320-5c39-45d0-9aab-dfcaf9af6a75" width="250" />
-<img src="https://github.com/user-attachments/assets/b607d6c4-bceb-4641-9e81-80e9d667e338" width="250" />
-<img src="https://github.com/user-attachments/assets/5317f4db-62e7-4120-8804-30166ed7fc7e" width="250" />
-<img src="https://github.com/user-attachments/assets/f0a2ad71-c546-4f9e-8e0a-231580815455" width="250" />
+<!-- Project Title -->
+<h2 align="center">🚀 <strong>WeCare</strong></h2>
 
-💬 Integration of Backend in the Application
-📊 Implemented SwiftCharts for Analytics in Admin Portal
-📲 Helped in Designing the UI of the Application
-💬 Other UI and bug fixes
+<!-- Description -->
+<p align="center">
+  <em>(Infosys Internship)</em><br>
+  I had the opportunity to contribute to this incredible <strong>iOS/iPadOS/macOS app</strong> built with <strong>SwiftUI</strong>.
+  My work involved designing and implementing the <strong>Admin Portal</strong>, integrating <strong>SwiftCharts</strong> for analytics,
+  fixing bugs, and connecting the app to the <strong>AWS-based backend</strong>.
+</p>
+
+<p align="center">
+  ⏱️ Completed in just <strong>3 weeks</strong> · ☁️ <strong>Cross-platform support</strong> · 🔗 <strong>Deployed via AWS</strong>
+</p>
+
+<!-- Project Screenshots -->
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/aff4c320-5c39-45d0-9aab-dfcaf9af6a75" width="250" />
+  <img src="https://github.com/user-attachments/assets/b607d6c4-bceb-4641-9e81-80e9d667e338" width="250" />
+  <img src="https://github.com/user-attachments/assets/5317f4db-62e7-4120-8804-30166ed7fc7e" width="250" />
+  <img src="https://github.com/user-attachments/assets/f0a2ad71-c546-4f9e-8e0a-231580815455" width="250" />
+</div>
+
+---
+
+<!-- Contributions -->
+<h3>✨ Key Contributions</h3>
+
+- 💬 Integrated the backend APIs into the app
+- 📊 Implemented <strong>SwiftCharts</strong> in the Admin Portal for data analytics
+- 🎨 Collaborated in designing a responsive and accessible UI
+- 🐞 Fixed UI bugs and improved the overall UX
+
+---
+
+
 
 
 AppIdeaasApp

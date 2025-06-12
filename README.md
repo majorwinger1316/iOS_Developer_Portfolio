@@ -1,5 +1,6 @@
-Neutral Creative Professional LinkedIn Article Cover Image-2
-👋 Hi! I'm a self-taught freelance/indie iOS Engineer. Here's a bit of what I've been working on.
+<img width="792" alt="Screenshot 2025-06-12 at 1 34 54 PM" src="https://github.com/user-attachments/assets/6f15b112-4c7b-4d45-91ee-b9f94e94310e" />
+
+👋 Hi! I'm a iOS App Developer Engineer. Here's a bit of what I've been working on.
 Clockology
 (Contract Work) I've have the opportunity to contribute to this incredible iOS/watchOS App. Using SwiftUI, I've helped refresh some of the designs, implement a new generic Calendar and Chart layer for users to add to their watch faces, and help with various bug fixes and design updates. This is ongoing work and just a few examples of the things I've had the opportunity to work on.
 

@@ -1,8 +1,9 @@
 
 <img width="741" alt="Screenshot 2025-06-12 at 1 43 13 PM" src="https://github.com/user-attachments/assets/aeeee210-b4ff-4455-98e5-5db3c42fcf8d" />
 
-**👋 Hi! I'm a iOS App Developer Engineer. Here's a bit of what I've been working on.
-WeCare
+**👋 Hi! I'm a iOS App Developer Engineer. Here's a bit of what I've been working on.**
+
+*WeCare*
 (Infosys Internship) I've have the opportunity to contribute to this incredible iOS/iPadOS/MacOS App. Using SwiftUI, I've helped in designing and implementing the admin portal, implemented SwiftCharts for Analytics, and help with various bug fixes and Backend Integration. This App was completed in just 3 weeks with the capability to work cross platform as the backend was deployed on AWS.
 
 

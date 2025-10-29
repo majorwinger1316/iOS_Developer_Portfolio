@@ -10,8 +10,8 @@
 
 ## 🚨 WeCare – Cross-Platform Hospital Management App
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/aff4c320-5c39-45d0-9aab-dfcaf9af6a75" width="250" />
-  <img src="https://github.com/user-attachments/assets/b607d6c4-bceb-4641-9e81-80e9d667e338" width="250" />
+  <img src="https://github.com/user-attachments/assets/6c4189cd-986e-4571-b669-3259465ca986" />
+  <img src="https://github.com/user-attachments/assets/de36ce2d-ca33-4aaf-bcf4-758f9287b003" />
   <img src="https://github.com/user-attachments/assets/5317f4db-62e7-4120-8804-30166ed7fc7e" width="250" />
   <img src="https://github.com/user-attachments/assets/f0a2ad71-c546-4f9e-8e0a-231580815455" width="250" />
 </div>

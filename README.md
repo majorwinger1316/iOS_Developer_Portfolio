@@ -35,10 +35,10 @@
 
 ## 🧘‍♂️ DeskBreak – Stretch & Wellness App for Professionals
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8007ce6c-a047-4fc8-a30b-ac7341dcbdc9" width="300" />
-  <img src="https://github.com/user-attachments/assets/acda1317-de07-4725-8611-8ec60f0c4ca0" width="300" />
-  <img src="https://github.com/user-attachments/assets/07742843-60a7-4fe9-9ac4-2ae3d740e377" width="300" />
-  <img src="https://github.com/user-attachments/assets/bc4a75ac-8df6-44ec-baaf-71be606366d9" width="300" />
+  <img src="https://github.com/user-attachments/assets/c5b83254-df80-4391-ae58-e18036cfbb08" width="300" />
+  <img src="https://github.com/user-attachments/assets/0778d76e-52e8-4c34-aae9-46777866ba1f" width="300" />
+  <img src="https://github.com/user-attachments/assets/359f5c58-69d4-45d9-8ab4-60bfd57961c2" width="300" />
+  <img src="https://github.com/user-attachments/assets/0da765b3-04ce-414b-8727-8ccd226dbb24" width="300" />
 </div>
 
 <p align="center">
